@@ -27,6 +27,9 @@ This project showcases a QR code component designed using HTML and CSS. The comp
 
 To view the QR code component, open the `index.html` file in a web browser. The component is designed to be responsive, adjusting its layout based on the screen size.
 
+## Live Site
+Visit the live site [here](https://rohit-130se.github.io/QR-Code-Component---Frontend-Mentor-Challenge-Solution/).
+
 ### For Developers
 
 If you wish to modify or extend the component, feel free to edit the HTML and CSS files to suit your needs.
